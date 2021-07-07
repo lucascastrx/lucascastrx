@@ -1,13 +1,15 @@
 ## Hi ya!
+
+
  <div>
   <a href="https://github.com/lucascastrx">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascastrx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascastrx&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=lucascastrx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascastrx&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Lucas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ##
